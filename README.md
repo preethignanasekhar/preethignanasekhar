@@ -25,6 +25,5 @@ I am a passionate software developer with a keen interest in AI, Machine Learnin
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/preethi250325/)
 - [GitHub](https://github.com/preethignanasekhar)
-- [Twitter](https://twitter.com/preethign)
 
 Let's connect and collaborate to create something amazing!
